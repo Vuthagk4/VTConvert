@@ -1,2 +1,3 @@
 40000 : Forty Thousand Riel : 10 $ : សែសិប ពាន់ រៀល
 10000 : Ten Thousand Riel : 2.50 $ : ដប់ ពាន់ រៀល
+3500 : Three Thousand Five Hundred Riel : 0.88 $ : បី ពាន់ ប្រាំ រយ រៀល
